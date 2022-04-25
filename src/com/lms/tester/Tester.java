@@ -1,5 +1,8 @@
 package com.lms.tester;
 
+import com.lms.pojo.BookCopy;
+import com.lms.pojo.Member;
+
 import java.util.Date;
 import java.util.List;
 
