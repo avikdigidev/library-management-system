@@ -1,8 +1,10 @@
-package com.lms.system;
+package com.lms.system.impl;
 
 import com.lms.dao.DataAccessor;
 import com.lms.dao.Results;
 import com.lms.pojo.BookCopy;
+import com.lms.system.BookSearcher;
+import com.lms.utils.ResultsConverter;
 
 import java.util.List;
 

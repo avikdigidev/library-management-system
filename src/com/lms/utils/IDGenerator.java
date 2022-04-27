@@ -1,4 +1,4 @@
-package com.lms.system;
+package com.lms.utils;
 
 public class IDGenerator {
     /*We should always try to avoid creating of utility classes

@@ -1,6 +1,7 @@
-package com.lms.system;
+package com.lms.system.impl;
 
 import com.lms.pojo.BookCopy;
+import com.lms.system.BookSearcher;
 
 import java.util.List;
 
