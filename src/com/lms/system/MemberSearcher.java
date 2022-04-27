@@ -1,6 +1,8 @@
 package com.lms.system;
 
-import java.lang.reflect.Member;
+
+import com.lms.pojo.Member;
+
 import java.util.List;
 
 public interface MemberSearcher {
